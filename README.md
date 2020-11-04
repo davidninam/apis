@@ -53,5 +53,5 @@ Una recopilación de API (Application Programming Interface) que se pueden usar 
 1. [spotify](https://developer.spotify.com/documentation/web-api/)
 
 
-### Agradecimientos
-@degranda10, que fue fuente e inspiración para esta lista de APIs.
+## API - Tipos de Cambio
+1. [Conversión de moneda](https://exchangeratesapi.io/)
