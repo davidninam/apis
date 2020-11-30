@@ -55,3 +55,6 @@ Una recopilación de API (Application Programming Interface) que se pueden usar 
 
 ## API - Tipos de Cambio
 1. [Conversión de moneda](https://exchangeratesapi.io/)
+
+## OTROS - Paises
+1. [JSON paises](paises.json)
